@@ -2,8 +2,6 @@ Mainainer Dr. Priya B. Pandharbale (Associate Professor, SGI, Atigre, Kolhapur)
 Course: Machine Learning Lab -- B.Tech, Computer Science & Engineering,
 Fifth Semester
 Laboratory Code: 26AF1245PCL508
-
-
 ________________________________________
 About this repository
 This repository is intended to support the teaching and learning of Machine Learning for students and faculty members of DBATU-affiliated institutes. It brings together course-aligned study material, Python programs, Jupyter notebooks, and practical exercises.
@@ -17,11 +15,14 @@ How students can use this repository
 4.	Observe the output, graphs and evaluation measures.
 5.	Experiment with different inputs, parameters and datasets.
 6.	Write observations and results in your own words.
-7.	Follow the practical journal and submission instructions of your
+7.  students can directly print their updated experiments with CRL+P. 
+8.	Follow the practical journal and submission instructions of your
 institute.
+
 Use these resources to learn and practise. Do not submit copied work as
 your own; follow your institute's academic integrity requirements.
 Learning resources 
+
 Reference books
 1.	Tom Mitchell, Machine Learning, First Edition, McGraw Hill, 1997.
 2.	Ethem Alpaydin, Introduction to Machine Learning, PHI Learning
